@@ -1,5 +1,7 @@
 # DPA-tools
 
+> 将dpgen数据集放在dpa_collect.sh同一目录下，运行 `sh dpa_collect.sh <sys_name>` 即可直接生成 sys_name.zip，按9：1划分训练集和测试集
+
 ## 1.1 数据集管理准则：分开data和训练脚本
 
 **@周烁**标准化之后的数据集文件树，其中中括号表示非必需存在的可选文件
